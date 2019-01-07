@@ -13,4 +13,6 @@ class ListFragment: Fragment() {
         val v = inflater.inflate(R.layout.fragment_list, container, false)
         return v
     }
+
+
 }
